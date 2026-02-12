@@ -2,6 +2,10 @@
 # size = 3 -->  ###
 #               ###
 #               ###
+from Functions.Modules import operations
+print(operations.add(3,5))
+
+
 
 def main():
     size = int(input("What's the size of the box? "))

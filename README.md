@@ -9,4 +9,8 @@ If you create a new Python file and want to add it to your GitHub repository, yo
 4. git commit -m "Add new Python file"
 5. git push
 
+git add . only stages files that have changes (new, modified, or deleted).
+It does not “touch” unchanged files.
+
+To import a defined function in another directory -- > from Functions.Modules import operations
 
