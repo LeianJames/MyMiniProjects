@@ -13,11 +13,3 @@ def multiply(a,b):
 def divide(a,b):
     quotient = a / b
     return quotient
-#--------------------------------------------------------------------------------------------------------------------------
-#sample
-a = int(input("Enter first num: "))
-b = int(input("Enter second num: "))
-
-result = add(a,b)
-
-print(result)
