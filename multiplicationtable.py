@@ -7,3 +7,4 @@ def table():
             print(f"{i} x {j} = {k} \n" )
 
 table()
+
